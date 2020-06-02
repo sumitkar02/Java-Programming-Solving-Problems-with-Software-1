@@ -276,6 +276,7 @@ public class BabyBirths {
         int sum = getTotalBirthsRankedHigher(2012, "Ethan", "M");
         System.out.println("The total briths higher is "+sum);
     }
+}
     
     
  
